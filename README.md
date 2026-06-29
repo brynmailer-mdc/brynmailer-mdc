@@ -10,3 +10,5 @@ Senior distributed systems engineer at [mulgadc](https://github.com/mulgadc), wi
 ---
 
 This is my work account. For personal projects and experiments, you can find me at [@brynmailer](https://github.com/brynmailer).
+
+I also have professional experience with embedded systems (STM32, ESP32, embedded Linux), and spend my free time messing around with custom guitar pedals, synthesizers, and other musical electronics in my home lab.
