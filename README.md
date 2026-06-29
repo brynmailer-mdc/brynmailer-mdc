@@ -4,4 +4,4 @@ Senior distributed systems engineer at [mulgadc](https://github.com/mulgadc), wo
 
 ---
 
-This is my work account, which I use for my engineering at mulgadc. For personal projects and experiments, you can find me at [@brynmailer](https://github.com/brynmailer).
+This is my work account. For personal projects and experiments, you can find me at [@brynmailer](https://github.com/brynmailer).
